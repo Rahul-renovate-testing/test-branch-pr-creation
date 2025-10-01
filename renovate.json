@@ -1,4 +1,5 @@
 {
   "labels": ["old"],
-  "minimumReleaseAge": "299 days"
+  "minimumReleaseAge": "299 days",
+  "prCreation": "not-pending"
 }
